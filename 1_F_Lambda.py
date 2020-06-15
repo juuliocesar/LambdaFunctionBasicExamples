@@ -23,7 +23,7 @@ SINTAXIS lambda valores: operacion con valores
 
 
 """
-"""
+
 def area_triangulo(base,altura):
 	return (base*altura)/2
 
@@ -32,7 +32,7 @@ triangulo2 = area_triangulo(9,6)
 
 print(triangulo1,triangulo2)
 
-"""
+
 
 #Simplificando la sintaxis con lambda
 #Creamos una variable y establecemos los parámetros que va a recibir esa funcion anónima
